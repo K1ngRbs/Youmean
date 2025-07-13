@@ -79,7 +79,7 @@ export default function YoumeanLanding() {
                 <span className="text-gray-400 text-sm ml-4">youmean.app/dashboard</span>
               </div>
               <Image
-                src="./public/dashboard.png?height=600&width=1000"
+                src="/dashboard.png?height=600&width=1000"
                 alt="Interface Youmean montrant des visualisations de données textuelles"
                 width={1000}
                 height={600}
